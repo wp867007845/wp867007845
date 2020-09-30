@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+一名实习生，个人博客：[漂流人](blog.driftmen.like)
+
 <!--
 **wp867007845/wp867007845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
